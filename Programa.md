@@ -12,7 +12,7 @@ El curso se desarrollará en cinco módulos de 2.5 hs, distribuidos en cuatro es
 - Consultas: ecientifica@ips.edu.ar
 ## Personas destinatarias
 - Comunidad del IPS
-- Comunidad de UNR 
+- Comunidad de UNR  
 En caso de no pertener a ninguna categoría, consultar previamente.
 ## Contenidos
 - Módulo 1: Introducción  R. 
