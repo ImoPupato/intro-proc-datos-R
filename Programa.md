@@ -1,5 +1,5 @@
 # Introducción al procesamiento de datos con R
-R es un lenguaje y un entorno de programación de software libre, pensado para análisis estadístico y las representaciones gráficas. Es muy utilizado en estadística descriptiva e inferencial.
+R es un lenguaje y un entorno de programación de software libre, diseñado para el procesamiento de datos y análisis estadístico, además cuenta con la posibilidad de realizar representaciones gráficas. Es muy utilizado en estadística descriptiva e inferencial.
 ## Objetivos
 Este curso tiene por objetivo principal proporcionar conocimientos en el manejo de R que permitan explorar y utilizar las herramientas para almacenamiento y procesamiento de datos
 ## Organización del curso
