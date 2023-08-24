@@ -13,7 +13,7 @@ El curso se desarrollará en cinco módulos de 2.5 hs, distribuidos en cuatro es
 ## Personas destinatarias
 - Comunidad del IPS
 - Comunidad de UNR  
-En caso de no pertener a ninguna categoría, consultar previamente.
+En caso de no pertenecer a ninguna categoría, consultar previamente.
 ## Contenidos
 - Módulo 1: Introducción  R. 
 Instalación de R y RStudio, uso de librerías o paquetes, introducción de datos, estructuras y tipos de datos (vectores, data.frame, matrices, listas) y elementos (numéricos, strings). paquetes: readxl, readr (tydiverse).
