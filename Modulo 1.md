@@ -1,13 +1,3 @@
----
-title: "Introducción a R. Modulo 1"
-author: "Avila Aylén"
-date: "2023"
-output: html_document
----
-
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
 # Módulo 1: Introducción  R.  
 Instalación de R y RStudio, uso de librerías o paquetes, introducción de datos, estructuras y tipos de datos (vectores, data.frame, matrices, listas) y elementos (numéricos, strings).  
 paquete: readxl  
@@ -52,7 +42,7 @@ vector_caracter_1<-c("a","b","c","d","e") # el encomillado indica que son caract
 vector_caracter_2<-c(rep("a",3),rep("b",2)) # indico primero el valor que quiero que se repita y luego separado con coma el número de veces
 vector_logico<-c(T,T,F,F,T) # al utilizar la T (True) y la F (False) que son letras sin encomillado, lo toma como vector lógico
 ```
-A través de las lineas anteriores conocimos las funciones c(), seq (), rep(), runif() y el operador ":". Estas funciones se encuentran en lo que llamamos R base y no necesita de paquetes auxiliares.  
+A través de las líneas anteriores conocimos las funciones c(), seq (), rep(), runif() y el operador ":". Estas funciones se encuentran en lo que llamamos R base y no necesita de paquetes auxiliares.  
 ### Factores  
 Los factores constituyen un tipo especial de vectores que se utilizan para datos categóricos.  
 ```{r factores}
