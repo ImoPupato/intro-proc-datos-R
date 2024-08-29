@@ -85,13 +85,13 @@ tabla_2<-read.delim("clipboard", sep="\t", row.names=TRUE, col.names=TRUE) #aña
 ```
 - función read.csv: nos permite ingresar la tabla en formato de csv o txt desde el entorno de Rstudio o por la consola:  
 ```{r data frames read.csv}
-tabla_3<-read.csv("G:/Mi unidad/Curso R - IPS/Clase 1/Tabla.txt", sep="") # chequear antes la ruta de acceso al documento
+tabla_3<-read.csv("~/Curso R /Modulo 1/Tabla.txt", sep="") # chequear antes la ruta de acceso al documento
 ```
 - función read_excel: nos permite ingresar la tabla en formato xlsx desde el entorno de Rstudio o por la consola:  
 ```{r data frames read.xlsx}
 install.packages("readxl") # hay versiones que requieren previa instalación
 library("readxl") # si lo hacemos desde la consola primero debemos "llamar" a la librería. Si lo cargamos desde el entorno, este paso no es necesario 
-tabla_4<-read_excel("G:/Mi unidad/Curso R - IPS/Clase 1/Tabla.xlsx", sep="") # chequear antes la ruta de acceso al documento
+tabla_4<-read_excel("~/Curso R /Modulo 1/Tabla.xlsx", sep="") # chequear antes la ruta de acceso al documento
 ```  
 ## 7. Guardar datos en una tabla utilizando la función write.table() 
 ```{r write}
