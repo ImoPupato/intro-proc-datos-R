@@ -28,7 +28,8 @@ Como se mencionó anteriormente R es un lenguaje orientado a objetos. Bajo la ca
 
 Antes de comenzar el trabajo en RStudio, debemos seleccionar el directorio de trabajo en el cual se consultarán y guardarán los documentos generados. Esto puede realizarse por consola o seleccionándolo en el apartado de archivos (Files).  
 ```{r wd}
-setwd("G:/Mi unidad/Curso R - IPS/Clase 1") # chequear previamente la dirección
+
+setwd("~/Curso R /Modulo 1") # chequear previamente la dirección
 getwd() # de esta manera verificamos el directorio en el que nos encontramos trabajando
 ```  
 ### Vectores  
