@@ -1,0 +1,12 @@
+ID	Color	Numero	Tiempo
+1	Rojo	11	2
+2	Naranja	12	4
+3	Amarillo	13	2
+4	Violeta	14	3
+5	Verde	15	5
+6	Rojo	16	5
+7	Azul	17	4
+8	Negro	18	7
+9	Lila	19	2
+10	Verde	20	1
+
